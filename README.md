@@ -1,9 +1,7 @@
 <h1 align="center">
   <br>
-    <img src="C:\Users\moham\OneDrive\Desktop\cc\Voice_Oasis-1\ro.jpg" alt="Voice Oasis Logo" width="200">
-    <br>
     Voice Oasis
-    <br>
+  <br>
 </h1>
 
 <h4 align="center">An intelligent voice enhancement and memory platform for conversational agents</h4>
