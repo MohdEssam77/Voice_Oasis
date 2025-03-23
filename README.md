@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://i.imgur.com/i0TtYWh.png" alt="Voice Oasis Logo" width="200">
+    <img src="https://media.npr.org/assets/img/2024/01/09/gettyimages-1252004827-1c09e2b4f6f376083b4ff478d6c99bfc14e1a3a5.jpg" alt="Voice Oasis Logo" width="200">
     <br>
     Voice Oasis
     <br>
